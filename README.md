@@ -1,3 +1,4 @@
+
 # 🧠 Symzle 🧩
 
 ### A daily logic puzzle game where you deduce a hidden sequence of symbols.
@@ -18,9 +19,6 @@
 <div align="center">
 
 ![Symzle Gameplay Screenshot](https://github.com/user-attachments/assets/5145acf7-d877-4a6d-9aa8-60bdeb272266)
-
-</br>
-
 
 </div>
 
@@ -113,4 +111,5 @@ You must have [Node.js](https://nodejs.org/) (version 16 or later) and [npm](htt
 ## 📜 License
 
 This project is distributed under the MIT License. See the `LICENSE` file for more information.
-```
+
+
