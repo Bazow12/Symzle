@@ -39,6 +39,7 @@ After each guess, the game gives you clues about correct symbols and positions, 
 * **📱 Responsive Design:** Looks and works great on any device, from phones to desktops.
 * **🌙 Dark Mode:** Automatically adapts to your system's light or dark theme.
 * **🔗 Shareable Results:** Easily share your daily score with friends in a spoiler-free format.
+* **🔐 Secure Login:** Login or create an account to rank on the leaderboard!
 
 ---
 
